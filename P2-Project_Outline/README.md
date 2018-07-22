@@ -20,10 +20,15 @@ Users will be able to record completed running mileage in their schedule/tracker
 
 ### Technologies
 Python
+
 Flask
+
 MySQL
+
 SQLAlchemy
+
 Jinja2 templates
+
 BeautifulSoup
 
 ### What I'll Have to Learn
