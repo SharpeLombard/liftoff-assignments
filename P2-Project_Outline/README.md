@@ -35,4 +35,4 @@ BeautifulSoup
 In the course of building this project, I hope to learn how to scrape data from online race calendars in order to add it to my database for users to search. I’ll also need to learn how to add a calendar widget to user profile pages.
 
 ### Project Tracker
-I will be using Trello to track my project: https://trello.com/b/k9LYd7DZ/runner-training-calendar
+I will be using Pivotal to track my project: https://www.pivotaltracker.com/n/projects/2186249.
