@@ -4,12 +4,10 @@
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/assignments/online-profiles/)
 
 ### GitHub
-https://github.com/SharpeLombard
+[Rebecca Lombard's GitHub](https://github.com/SharpeLombard)
 
 ### LinkedIn
-www.linkedin.com/in/rebeccalombard
+[Rebecca Lombard's LinkedIn](www.linkedin.com/in/rebeccalombard)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+[Rebecca Lombard's Resume](https://github.com/SharpeLombard/liftoff-assignments/blob/master/C1-Online_Profiles/RSLombard%20Resume.pdf)
